@@ -127,19 +127,19 @@ session_start();
     <div class="conteudo-pai">
     <div class="conteudo-1">
     <div class="section">
-        <img src="path/to/busca-rapida.png" alt="Ícone de Busca Rápida">
+        <img src="/img/coconuttree.png" alt="Ícone de Busca Rápida">
         <h3>Busca rápida</h3>
         <p>Busque opções entre mais de 5 milhões de hotéis em poucos segundos.</p>
     </div>
 
     <div class="section">
-        <img src="path/to/comparacao-abrangente.png" alt="Ícone de Comparação Abrangente">
+        <img src="/img/cachoeira1.png" alt="Ícone de Comparação Abrangente">
         <h3>Comparação abrangente</h3>
         <p>Compare preços de hotéis de centenas de sites ao mesmo tempo.</p>
     </div>
 
     <div class="section">
-        <img src="path/to/otimas-ofertas.png" alt="Ícone de Ótimas Ofertas">
+        <img src="/img/arvoredasilva.png" alt="Ícone de Ótimas Ofertas">
         <h3>Ótimas ofertas</h3>
         <p>Encontre uma superoferta para reservar em sites parceiros.</p>
     </div>

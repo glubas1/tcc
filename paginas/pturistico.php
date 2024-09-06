@@ -75,8 +75,8 @@
                 <img src="../img/caption.jpg" class="card-img-top" alt="Ponto Turístico 2">
                 <div class="card-body">
                     <h5 class="card-title">Cachoeira Rio Das Minas</h5>
-                    <p class="card-text">Belíssima cachoeira com um refrescante banho em meio à natureza.</p>
-                    <a href="#" class="btn btn-primary">Ver ponto</a>
+                    <p class="card-text">Belíssima cachoeira em meio à natureza.</p>
+                    <a href="pturistico2.php" class="btn btn-primary">Ver ponto</a>
                 </div>
             </div>
         </div>
@@ -85,7 +85,7 @@
                 <img src="../img/tubas.jpg" class="card-img-top" alt="Ponto Turístico 3">
                 <div class="card-body">
                     <h5 class="card-title">Museu Municipal de Cananéia</h5>
-                    <p class="card-text">Museu que exibe a rica história e cultura local de Cananéia.</p>
+                    <p class="card-text">Museu que exibe a rica história e cultura de cananéia.</p>
                     <a href="#" class="btn btn-primary">Ver ponto</a>
                 </div>
             </div>

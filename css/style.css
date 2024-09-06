@@ -170,7 +170,7 @@ a.caption-login:hover {
     display: flex;
     justify-content: center;
     align-items: center;
-    min-height: 30vh;
+    min-height: 40vh;
     margin: 0;
     background-color: #fafafa ;
 }
@@ -183,7 +183,7 @@ a.caption-login:hover {
     max-width: 300px;
 }
 .section img {
-    width: 80px;
+    width: 320px;
     height: auto;
     margin-bottom: 15px;
 }
