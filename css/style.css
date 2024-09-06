@@ -165,3 +165,35 @@ a.caption-login:hover {
     height: 200px;
     object-fit: cover; 
 }
+.conteudo-pai {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 30vh;
+    margin: 0;
+    background-color: #fafafa ;
+}
+.conteudo-1 {
+    display: flex;
+    gap: 40px;
+}
+.section {
+    text-align: center;
+    max-width: 300px;
+}
+.section img {
+    width: 80px;
+    height: auto;
+    margin-bottom: 15px;
+}
+.section h3 {
+    font-size: 20px;
+    margin: 10px 0;
+    color: #333;
+}
+.section p {
+    color: #666;
+    font-size: 14px;
+    line-height: 1.5;
+}

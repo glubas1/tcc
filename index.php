@@ -78,7 +78,7 @@ session_start();
 
 
         <div class="imagem">
-        <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d19654.120696355476!2d-47.93144183117516!3d-25.01282500643426!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e1!3m2!1spt-BR!2sbr!4v1725363968255!5m2!1spt-BR!2sbr" width="750" height="700" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+        <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d19654.120696355476!2d-47.93144183117516!3d-25.01282500643426!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e1!3m2!1spt-BR!2sbr!4v1725363968255!5m2!1spt-BR!2sbr" width="100%" height="750" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
         </div>
         </div>            
         </div>
@@ -123,6 +123,31 @@ session_start();
 
         
     </div>
+    
+    <div class="conteudo-pai">
+    <div class="conteudo-1">
+    <div class="section">
+        <img src="path/to/busca-rapida.png" alt="Ícone de Busca Rápida">
+        <h3>Busca rápida</h3>
+        <p>Busque opções entre mais de 5 milhões de hotéis em poucos segundos.</p>
+    </div>
+
+    <div class="section">
+        <img src="path/to/comparacao-abrangente.png" alt="Ícone de Comparação Abrangente">
+        <h3>Comparação abrangente</h3>
+        <p>Compare preços de hotéis de centenas de sites ao mesmo tempo.</p>
+    </div>
+
+    <div class="section">
+        <img src="path/to/otimas-ofertas.png" alt="Ícone de Ótimas Ofertas">
+        <h3>Ótimas ofertas</h3>
+        <p>Encontre uma superoferta para reservar em sites parceiros.</p>
+    </div>
+  </div>
+  </div>
+
+
+
     <div class="app-content">
       
 <div class="app">
