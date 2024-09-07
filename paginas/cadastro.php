@@ -38,8 +38,8 @@
 }
 .btn-custom {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    background-color: #fdde5b; 
-    border-color: #fdde5b; 
+    background-color: #00af4e; 
+    border-color: #00af4e; 
     color: black; 
 }
 </style>

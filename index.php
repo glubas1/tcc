@@ -35,7 +35,7 @@ session_start();
                     <a class="nav-link" href="/paginas/pturistico.php">Pontos Turísticos</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Contrate um guia</a>
+                    <a class="nav-link" href="/paginas/calendario.php">Calendário Cananeense</a>
                 </li>
                 
                 <li class="nav-item">
@@ -166,7 +166,7 @@ session_start();
   </div>
   <div class="right-content">
     <div class="phone">
-      <img src="/img/phone.jpg" alt="Phone"> 
+      <img src="/img/phone1.jpeg" alt="Phone"> 
     </div>
     <div class="curve"></div>
   </div>

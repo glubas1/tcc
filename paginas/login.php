@@ -38,10 +38,20 @@
 }
 .btn-custom {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    background-color: #fdde5b; 
-    border-color: #fdde5b; 
+    background-color: #00af4e; 
+    border-color: #00af4e; 
     color: black; /* Cor do texto */
 }
+
+.conteudo-mar{
+    height:610px;
+    background-image: url(../img/fundologin.png);
+    background-position: 50% 65%;
+    background-size: cover;
+}
+
+
+  
 
 </style>
 
@@ -81,6 +91,9 @@
 
 <main>
 <div class="title-1"><h1><strong>Página de login</strong></h1></div>
+
+<div class="conteudo-mar">
+<div class="conteudo-pai">
 <div class="login-1">
     <form action="../php/proc_login_usuario.php" method="post">
         <div class="mb-2">
@@ -101,6 +114,9 @@
         </div>
     </form>
 </div>
+</div>
+</div>
+
 </main>
 
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
