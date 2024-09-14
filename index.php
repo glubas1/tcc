@@ -71,7 +71,7 @@ session_start();
             <img src="img/canaverde-removebg-preview.png" width="230px">
           </div>
           <h2>Conheça tudo sobre cananéia</h2>
-          Venha conhecer cananéia de um jeito diferente.
+          <p>Venha conhecer cananéia de um jeito diferente.</p>
             
         </div>
 
@@ -127,21 +127,21 @@ session_start();
     <div class="conteudo-pai">
     <div class="conteudo-1">
     <div class="section">
-        <img src="/img/coconuttree.png" alt="Ícone de Busca Rápida">
-        <h3>Busca rápida</h3>
-        <p>Busque opções entre mais de 5 milhões de hotéis em poucos segundos.</p>
+        <img src="/img/forest.png" alt="Ícone de Natureza Exuberante">
+        <h3>Descubra a Natureza</h3>
+        <p>Explore as belezas naturais de Cananéia, com opções de trilhas, praias e biodiversidade única.</p>
     </div>
 
     <div class="section">
-        <img src="/img/cachoeira1.png" alt="Ícone de Comparação Abrangente">
-        <h3>Comparação abrangente</h3>
-        <p>Compare preços de hotéis de centenas de sites ao mesmo tempo.</p>
+        <img src="/img/monument.png" alt="Ícone de Cultura Rica">
+        <h3>Cultura e Tradição</h3>
+        <p>Conheça a história e o patrimônio cultural de Cananéia, uma das cidades mais antigas do Brasil.</p>
     </div>
 
     <div class="section">
-        <img src="/img/arvoredasilva.png" alt="Ícone de Ótimas Ofertas">
-        <h3>Ótimas ofertas</h3>
-        <p>Encontre uma superoferta para reservar em sites parceiros.</p>
+        <img src="/img/adventurer.png" alt="Ícone de Aventuras ao Ar Livre">
+        <h3>Aventuras Imperdíveis</h3>
+        <p>Descubra atividades emocionantes, como passeios de barco, pesca e ecoturismo em Cananéia.</p>
     </div>
   </div>
   </div>
@@ -153,7 +153,7 @@ session_start();
 <div class="app">
     <div class="container-app">
   <div class="left-content">
-    <h1>Baixe o app Canatrip</h1>
+    <h2>Baixe o app Canatrip</h2>
     <p>Marque viagens por cananéia.</p>
     <div class="buttons">
     <a href="#" class="button">Baixe o app no google play</a><br>
@@ -166,7 +166,7 @@ session_start();
   </div>
   <div class="right-content">
     <div class="phone">
-      <img src="/img/phone1.jpeg" alt="Phone"> 
+      <img src="/img/phone2.jpg" alt="Phone"> 
     </div>
     <div class="curve"></div>
   </div>
